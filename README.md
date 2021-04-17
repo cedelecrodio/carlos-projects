@@ -1,2 +1,2 @@
 # carlos-projects
-Projetos base para futuros super projetos
+Projetos base para futuros super projeto
